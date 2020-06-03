@@ -3,8 +3,8 @@ Ecoleta Booster - Projeto Desenvolvido na Next Level Week da Rocketseat
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Node.js                                                                                                          
-React
-React Native
+React                                                                                                           
+React Native                                                                                                           
 Expo
 
 O Ecoleta é um projeto que facilita a vida das pessoas que trabalham e reciclam materiais, tornando possível para os pontos de coletas serem encontrados mais fácilmente por sua localização para assim pessoas possam ajudar o meio ambiente entregando materiais recicláveis nestes pontos de coleta.
