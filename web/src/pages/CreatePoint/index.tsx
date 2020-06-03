@@ -141,10 +141,8 @@ const CreatePoint = () => {
       items
     }
 
-    await axios.post('points', data);
-
+    await axios.post('http://localhost:3333/points', data);
     alert('Ponto de coleta criado!');
-
     history.push('/');
   }
 
