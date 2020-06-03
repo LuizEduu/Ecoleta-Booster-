@@ -1,26 +1,19 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
+import Routes from './routes';
+
+//É chamado pelo arquivo index.tsx que joga o conteudo da function dentro da div root do index.html
 function App() {
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Routes />
   );
 }
 
 export default App;
+
+/*
+  Estados são informações mantidas pelo próprio componente e são usados para armazenar dados
+  <Header title="hello word" /> passar propriedades para o componente
+*/
