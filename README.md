@@ -2,7 +2,7 @@ Ecoleta Booster - Projeto Desenvolvido na Next Level Week da Rocketseat
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-Node.js
+Node.js                                                                                                          
 React
 React Native
 Expo
